@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.odd {
+    background-color: pink;
+    color: black;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#three {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
